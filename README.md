@@ -1,4 +1,4 @@
-# VNL-2024-analysis
+# VNL-2024-analysis (Canada)
 Visualized team and player performance, highlighting points, errors, and efficiency using Python and Matplotlib.
 
 ---
